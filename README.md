@@ -9,3 +9,4 @@ A Library Mangement Project , Based on Python GUI work's on Local Database
 4. book add and delete
 5. registration fees.
 6. on local database
+7. freindly ui

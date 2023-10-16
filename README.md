@@ -11,3 +11,4 @@ A Library Mangement Project , Based on Python GUI work's on Local Database
 6. on local database
 7. freindly ui.
 8. User Freindly.
+9. proper library management
